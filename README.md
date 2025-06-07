@@ -1,2 +1,7 @@
-# Readme
-Introduction 
+- 👋 Hi, I’m @fazelnotgg
+- 👀 I’m interested in coding, game and bot creator
+- 🌱 I’m currently learning bot creation
+- 💞️ I’m looking to collaborate on open sourve project
+- 📫 How to reach me @fazelnotgg on Discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like playing games in my free time
